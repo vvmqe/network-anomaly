@@ -1,0 +1,8 @@
+anomaly_test.pcap
+.venv/
+.venv/
+*.pcap
+*.pcapng
+.venv/
+*.pcap
+*.pcapng
