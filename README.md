@@ -7,6 +7,8 @@ Mac:
 ```
 python3 main.py <pcap file>
 ```
+
+Windows:
 ```
 python main.py <pcap file>
 ```
